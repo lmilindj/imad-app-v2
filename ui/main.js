@@ -5,6 +5,6 @@ function ch(){
     leftMargin += 1;
     img.style.leftMargin = leftMargin + "px";
 }
-img.onClick=function(){
+img.onclick=function(){
     var interval = setInterval(ch,50);
 }
