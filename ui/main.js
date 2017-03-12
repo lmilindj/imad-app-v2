@@ -1,2 +1,2 @@
 console.log('Loaded!');
-var img=getElementById("madi");
+var img=document.getElementById("madi");
