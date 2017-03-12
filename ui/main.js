@@ -6,6 +6,6 @@ function ch(){
     img.style.leftMargin = leftMargin + "px";
 }
 img.onclick=function(){
-    //var interval = setInterval(ch,50);
-    document.write("lol");
+    var interval = setInterval(ch,50);
+   // document.write("lol");
 };
