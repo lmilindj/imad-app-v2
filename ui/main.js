@@ -7,4 +7,4 @@ function ch(){
 }
 img.onclick=function(){
     var interval = setInterval(ch,50);
-}
+};
